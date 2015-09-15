@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyMoney</string>
+
+    <string name="hello_world">Hello Ravi!</string>
+    <string name="settings">Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="emi_calculator">Emi Calculator</string>
+</resources>
